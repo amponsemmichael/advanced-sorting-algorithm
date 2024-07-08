@@ -1,0 +1,8 @@
+com\sorting\servlet\RadixSort.class
+com\sorting\servlet\ShellSort.class
+com\sorting\servlet\HeapSort.class
+com\sorting\servlet\MergeSort.class
+com\sorting\servlet\BucketSort.class
+com\sorting\servlet\SortsController.class
+com\sorting\servlet\InsertionSort.class
+com\sorting\servlet\QuickSort.class
